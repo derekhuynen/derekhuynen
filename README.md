@@ -2,7 +2,19 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Developer** with over 6 years of experience in full-stack development, cloud technologies, and AI integration. I specialize in building scalable, cloud-native applications and delivering innovative solutions that make a difference. Passionate about technology, I thrive in collaborative environments and love solving complex challenges.
+## I'm a **Senior Software Developer** with over 6 years of experience in full-stack development, cloud technologies, and AI integration. I specialize in building scalable, cloud-native applications and delivering innovative solutions that make a difference. Passionate about technology, I thrive in collaborative environments and love solving complex challenges.
+
+## 🌟 Featured Projects
+
+### 🤖 LinkedIn AI Auto Poster
+
+- **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
+- **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
+- **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhuynen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -30,21 +42,6 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 
 ---
 
-![](https://nirzak-streak-stats.vercel.app/?user=derekhuynen&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhuynen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 LinkedIn AI Auto Poster
-
-- **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
-- **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
-- **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
-
----
-
 ## 📫 Contact Me
 
 - **Email:** derek.huynen@gmail.com
@@ -54,4 +51,4 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=derekhuynen&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/derekhuynen/count.svg)
