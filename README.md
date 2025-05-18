@@ -1,4 +1,4 @@
-![Profile Banner](photos/banner2.png)
+![Profile Banner](photos/banner.png)
 
 ## 🚀 About Me
 
