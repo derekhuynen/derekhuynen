@@ -49,31 +49,9 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 
 ---
 
-<div style="display: flex; align-items: center; gap: 12px; line-height: 1;">
-    <h2 style="margin: 0; font-size: 1.5em; display: flex; align-items: center;">
-        🐾 Meet Koda
-    </h2>
-    <img src="https://profile-counter.glitch.me/derekhuynen/count.svg" alt="Visitor Count" style="vertical-align: middle; height: 28px;"/>
-</div>
+## 🐾 Meet Koda ![Visitor Count](https://profile-counter.glitch.me/derekhuynen/count.svg)
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <img src="photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
   <img src="photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
-</div>
-
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
-  <img src="photos/yoda.webp" alt="Master Yoda" style="width: 200px; border-radius: 10px;"/>
-  <h1 style="font-size: 1.5em; margin: 0;">"Do or do not, there is no try."</h1>
-</div>
-
-<!-- Gandolf -->
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px; flex-direction: row-reverse;">
-  <img src="photos/gandolf.jpg" alt="Gandolf" style="width: 200px; border-radius: 10px;"/>
-  <h1 style="font-size: 1.5em; margin: 0;">"A wizard is never late, nor is he early, he arrives precisely when he means to."</h1>   
-</div>
-
-<!-- dumblboldore -->
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
-  <img src="photos/dumbledore.png" alt="Dumblboldore" style="width: 200px; border-radius: 10px;"/>
-  <h1 style="font-size: 1.5em; margin: 0;">"Happiness can be found even in the darkest of times, if one only remembers to turn on the light."</h1>
 </div>
