@@ -49,6 +49,8 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 
 ---
 
+![Profile Banner](photos/derek_space.png)
+
 ## 🐾 Meet Koda ![Visitor Count](https://profile-counter.glitch.me/derekhuynen/count.svg)
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
