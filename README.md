@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-## I'm a **Senior Software Developer** with over 6 years of experience in full-stack development, cloud technologies, and AI integration. I specialize in building scalable, cloud-native applications and delivering innovative solutions that make a difference. Passionate about technology, I thrive in collaborative environments and love solving complex challenges.
+I'm a **Senior Software Developer** with over 6 years of experience in full-stack development, cloud technologies, and AI integration. I specialize in building scalable, cloud-native applications and delivering innovative solutions that make a difference. Passionate about technology, I thrive in collaborative environments and love solving complex challenges.
 
 ## 🌟 Featured Projects
 
@@ -14,11 +14,9 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhuynen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 💻 Tech Stack
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=derekhuynen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### Programming Languages
 
