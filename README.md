@@ -20,23 +20,27 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 
 ### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)![.Net](https://img.shields.io/badge/.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TanStack](https://img.shields.io/badge/tanstack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/redux--saga-%238DD6F9.svg?style=for-the-badge&logo=redux-saga&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23E5E5E5.svg?style=for-the-badge&logo=zustand&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TanStack](https://img.shields.io/badge/tanstack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/redux--saga-%238DD6F9.svg?style=for-the-badge&logo=redux-saga&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23E5E5E5.svg?style=for-the-badge&logo=zustand&logoColor=black) ![Semantic Kernel](https://img.shields.io/badge/semantic%20kernel-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### AI Tools & Technologies
+
+![OpenAI](https://img.shields.io/badge/openai-%23430098.svg?style=for-the-badge&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/ai%20agents-%23FF4154.svg?style=for-the-badge&logo=artificialintelligence&logoColor=white) ![RAG](https://img.shields.io/badge/rag-%230072C6.svg?style=for-the-badge&logo=knowledgegraph&logoColor=white)
 
 ### Cloud Platforms
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Databases
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Cosmos DB](https://img.shields.io/badge/cosmos%20db-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Cosmos DB](https://img.shields.io/badge/cosmos%20db-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)![AI Search](https://img.shields.io/badge/ai%20search-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Tools & Technologies
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![.Net](https://img.shields.io/badge/.net-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
