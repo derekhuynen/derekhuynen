@@ -12,6 +12,12 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 - **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
 
+
+### 🧠 AI RAG Chat Bot
+
+- **Description:** A serverless, knowledge-enhanced chatbot solution that combines Azure OpenAI with your private data sources through Retrieval-Augmented Generation (RAG). This enterprise-ready application leverages Azure AI Search and Semantic Kernel to deliver accurate, contextually relevant responses with source citations.
+- **Ideal For:** Organizations needing to make their proprietary knowledge accessible through conversational AI while maintaining transparency and trust through citation tracking.
+- **GitHub Repository:** [AI RAG Chat Bot](https://github.com/derekhuynen/AI_RAG_Chat_Bot)
 ---
 
 ## 💻 Tech Stack
