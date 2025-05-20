@@ -12,14 +12,14 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
 
 ### 🧠 RAG Demo Solution  
-**Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.  
-**Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.  
-**GitHub Repository:** [AI RAG](https://github.com/derekhuynen/AI_RAG)  
+- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.  
+- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.  
+- **GitHub Repository:** [AI RAG](https://github.com/derekhuynen/AI_RAG)  
 
 ### 🤝 Dual-Agent LLM System  
-**Description:** A C#/.NET Azure Functions + Semantic Kernel demo where two AI agents—Research (gpt-4o) and Writing (gpt-4.1)—collaborate to gather facts and generate polished content.  
-**Ideal For:** Developers building scalable, multi-agent AI pipelines with clear role separation.  
-**GitHub Repository:** [AI Agents](https://github.com/derekhuynen/AI_Agents)  
+- **Description:** A C#/.NET Azure Functions + Semantic Kernel demo where two AI agents—Research (gpt-4o) and Writing (gpt-4.1)—collaborate to gather facts and generate polished content.  
+- **Ideal For:** Developers building scalable, multi-agent AI pipelines with clear role separation.  
+- **GitHub Repository:** [AI Agents](https://github.com/derekhuynen/AI_Agents)  
 
 ---
 
