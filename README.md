@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior Software Developer** with 7 years of experience delivering robust, scalable web applications as a full-stack developer. I specialize in frontend development and AI-driven solutions, with deep expertise in React, AI patterns, and cloud platforms like Azure. Fast-learning, adaptable engineer passionate about building impactful, high-quality software and leading teams to deliver real business value. Experienced leading teams, mentoring developers, and driving innovation in dynamic, collaborative environments. Committed to delivering high-quality solutions that solve real business problems.
+I am a **Senior Software Developer** with years of experience delivering robust, scalable web applications as a full-stack developer. I specialize in frontend development and AI-driven solutions, with deep expertise in React, AI patterns, and cloud platforms like Azure. Fast-learning, adaptable engineer passionate about building impactful, high-quality software and leading teams to deliver real business value. Experienced leading teams, mentoring developers, and driving innovation in dynamic, collaborative environments. Committed to delivering high-quality solutions that solve real business problems.
 
 [Derek Huynen Resume](https://github.com/derekhuynen/derekhuynen/blob/main/DerekHuynenResume.pdf)
 
@@ -12,24 +12,26 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 
 - **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with Next.js and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
 - **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
-- **GitHub Repository:**  [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
+- **GitHub Repository:** [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
 - **Website** [DerekHuynen.com](https://www.derekhuynen.com)
 
-
 ### 🤖 LinkedIn AI Auto Poster
+
 - **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
 - **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
 
-### 🧠 RAG Demo Solution  
-- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.  
-- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.  
-- **GitHub Repository:** [AI RAG](https://github.com/derekhuynen/AI_RAG)  
+### 🧠 RAG Demo Solution
 
-### 🤝 Dual-Agent LLM System  
-- **Description:** A C#/.NET Azure Functions + Semantic Kernel demo where two AI agents—Research (gpt-4o) and Writing (gpt-4.1)—collaborate to gather facts and generate polished content.  
-- **Ideal For:** Developers building scalable, multi-agent AI pipelines with clear role separation.  
-- **GitHub Repository:** [AI Agents](https://github.com/derekhuynen/AI_Agents)  
+- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
+- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.
+- **GitHub Repository:** [AI RAG](https://github.com/derekhuynen/AI_RAG)
+
+### 🤝 Dual-Agent LLM System
+
+- **Description:** A C#/.NET Azure Functions + Semantic Kernel demo where two AI agents—Research (gpt-4o) and Writing (gpt-4.1)—collaborate to gather facts and generate polished content.
+- **Ideal For:** Developers building scalable, multi-agent AI pipelines with clear role separation.
+- **GitHub Repository:** [AI Agents](https://github.com/derekhuynen/AI_Agents)
 
 ---
 
