@@ -11,7 +11,8 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 - **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with Next.js and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
 - **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
 - **GitHub Repository:** [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
-- )
+- **DerekHuynen.com:** [DerekHuynen.com](https://www.derekhuynen.com)
+
 
 ### 🤖 LinkedIn AI Auto Poster
 - **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
