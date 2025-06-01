@@ -1,8 +1,10 @@
-![Profile Banner](photos/banner.png)
+![Profile Banner](docs/photos/banner.png)
 
 ## 🚀 About Me
 
 I am a **Senior Software Developer** with 7 years of experience delivering robust, scalable web applications as a full-stack developer. I specialize in frontend development and AI-driven solutions, with deep expertise in React, AI patterns, and cloud platforms like Azure. Fast-learning, adaptable engineer passionate about building impactful, high-quality software and leading teams to deliver real business value. Experienced leading teams, mentoring developers, and driving innovation in dynamic, collaborative environments. Committed to delivering high-quality solutions that solve real business problems.
+
+[Derek Huynen Resume](https://github.com/derekhuynen/derekhuynen/blob/main/DerekHuynenResume.pdf)
 
 ## 🌟 Featured Projects
 
@@ -10,7 +12,9 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 
 - **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with Next.js and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
 - **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
-- **GitHub Repository:** [DerekHuynen.com](https://www.derekhuynen.com)
+- **GitHub Repository:**  [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
+- **Website** [DerekHuynen.com](https://www.derekhuynen.com)
+
 
 ### 🤖 LinkedIn AI Auto Poster
 - **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
@@ -64,11 +68,11 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 
 ---
 
-![Profile Banner](doc/photos/derek_space.png)
+![Profile Banner](docs/photos/derek_space.png)
 
 ## 🐾 Meet Koda ![Visitor Count](https://profile-counter.glitch.me/derekhuynen/count.svg)
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
-  <img src="doc/photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
-  <img src="doc/photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
+  <img src="docs/photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
+  <img src="docs/photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
 </div>
