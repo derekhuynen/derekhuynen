@@ -6,7 +6,6 @@
 - **LinkedIn:** [linkedin.com/in/derekhuynen](https://www.linkedin.com/in/derekhuynen)
 - **GitHub:** [github.com/derekhuynen](https://www.github.com/derekhuynen)
 - **Website:** [derekhuynen.com](https://www.derekhuynen.com)
-- **Location:** Reno, NV, USA
 - **Availability:** Open to new opportunities
 
 ## Summary
@@ -40,7 +39,7 @@ Tools & Technologies: Agile, Git, Docker, CI/CD, GitHub Actions, Azure DevOps
 ### Owner / Founder
 
 **Pines Cabin Rentals**  
-**Jan 2020 – Present**
+**Jan 2019 – May 2022**
 
 - Managed operations for over 20 vacation rental properties, maintaining a 5-star Airbnb rating with 100+ guest reviews.
 - Designed and developed a custom React and Node.js website to streamline bookings, customer communication, and property management.
@@ -50,7 +49,7 @@ Tools & Technologies: Agile, Git, Docker, CI/CD, GitHub Actions, Azure DevOps
 ### IT and Web Development
 
 **Del Sol School Non-Profit School**  
-**Jan 2018 – Jan 2020**
+**Nov 2016 – Jan 2019**
 
 - Built and maintained the school's WordPress website, ensuring up-to-date content and reliable performance.
 - Set up, repaired, and maintained computers and network infrastructure for 20 staff and 40 students across the campus.
