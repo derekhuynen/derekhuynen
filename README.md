@@ -4,7 +4,7 @@
 
 I am a **Senior Software Developer** with 7 years of experience delivering robust, scalable web applications as a full-stack developer. I specialize in frontend development and AI-driven solutions, with deep expertise in React, AI patterns, and cloud platforms like Azure. Fast-learning, adaptable engineer passionate about building impactful, high-quality software and leading teams to deliver real business value. Experienced leading teams, mentoring developers, and driving innovation in dynamic, collaborative environments. Committed to delivering high-quality solutions that solve real business problems.
 
-**DerekHuynen.com:** [DerekHuynenResume](https://github.com/derekhuynen/derekhuynen/blob/main/DerekHuynenResume.pdf)
+[Derek Huynen Resume](https://github.com/derekhuynen/derekhuynen/blob/main/DerekHuynenResume.pdf)
 
 ## 🌟 Featured Projects
 
@@ -12,8 +12,8 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 
 - **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with Next.js and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
 - **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
-- **GitHub Repository:** [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
-- **DerekHuynen.com:** [DerekHuynen.com](https://www.derekhuynen.com)
+- **GitHub Repository:**  [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
+- **Website** [DerekHuynen.com](https://www.derekhuynen.com)
 
 
 ### 🤖 LinkedIn AI Auto Poster
