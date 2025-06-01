@@ -14,22 +14,22 @@ I am a senior software engineer with 7 years of experience delivering robust, sc
 
 ## Skills
 
-Programming Languages: TypeScript, JavaScript, Node.js, C#, Python, SQL
+**Programming Languages**: TypeScript, JavaScript, Node.js, C#, Python, SQL
 
-Frontend: React, Angular, Vue, Next.js, Redux, Sagas, Zustand, MUI, Tailwind, Sass, TanStack, Remix, Vite, Webpack
+**Frontend**: React, Angular, Vue, Next.js, Redux, Sagas, Zustand, MUI, Tailwind, Sass, TanStack, Remix, Vite, Webpack
 
-Backend: Express, .NET, Entity Framework, SignalR, Semantic Kernel, REST, Serverless
+**Backend**: Express, .NET, Entity Framework, SignalR, Semantic Kernel, REST, Serverless
 
-Cloud & AI: Azure Cloud Solutions, GenAI, RAG, Azure OpenAI, Agents
+**Cloud & AI**: Azure Cloud Solutions, GenAI, RAG, Azure OpenAI, Agents
 
-Tools & Technologies: Agile, Git, Docker, CI/CD, GitHub Actions, Azure DevOps
+**Tools & Technologies**: Agile, Git, Docker, CI/CD, GitHub Actions, Azure DevOps
 
 ## Work Experience
 
-### Software Engineer
+### Senior Software Engineer
 
 **Neudesic, Inc.**  
-**Jan 2022 – Present**
+**May 2022 – Present**
 
 - Developed and delivered over 10 AI solutions resulting in a 20% increase in client operational efficiency and decrease in cost.
 - Architected and implemented scalable cloud applications on Azure, reducing infrastructure costs by 25% and accelerating deployment cycles for enterprise clients.
@@ -228,4 +228,4 @@ React, TypeScript, Zustand, Websockets, Chart.js, StockCharts, Realtime
 **Bachelor in Psychology**  
 **Minor in Computer Science**  
 **California State University of Long Beach**  
-**Graduated: May 2022**
+**Graduated: May 2021**
