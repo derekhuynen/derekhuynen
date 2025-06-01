@@ -2,9 +2,15 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Developer** with over 6 years of experience in full-stack development, cloud technologies, and AI integration. I specialize in building scalable, cloud-native applications and delivering innovative solutions that make a difference. Passionate about technology, I thrive in collaborative environments and love solving complex challenges.
+I am a **Senior Software Developer** with 7 years of experience delivering robust, scalable web applications as a full-stack developer. I specialize in frontend development and AI-driven solutions, with deep expertise in React, AI patterns, and cloud platforms like Azure. Fast-learning, adaptable engineer passionate about building impactful, high-quality software and leading teams to deliver real business value. Experienced leading teams, mentoring developers, and driving innovation in dynamic, collaborative environments. Committed to delivering high-quality solutions that solve real business problems.
 
 ## 🌟 Featured Projects
+
+### DerekHuynen.com
+
+- **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with Next.js and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
+- **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
+- **GitHub Repository:** [DerekHuynen.com](https://www.derekhuynen.com)
 
 ### 🤖 LinkedIn AI Auto Poster
 
@@ -49,11 +55,11 @@ I'm a **Senior Software Developer** with over 6 years of experience in full-stac
 
 ---
 
-![Profile Banner](photos/derek_space.png)
+![Profile Banner](doc/photos/derek_space.png)
 
 ## 🐾 Meet Koda ![Visitor Count](https://profile-counter.glitch.me/derekhuynen/count.svg)
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
-  <img src="photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
-  <img src="photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
+  <img src="doc/photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
+  <img src="doc/photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
 </div>
