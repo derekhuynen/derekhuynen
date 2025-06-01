@@ -66,11 +66,11 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 
 ---
 
-![Profile Banner](doc/photos/derek_space.png)
+![Profile Banner](docs/photos/derek_space.png)
 
 ## 🐾 Meet Koda ![Visitor Count](https://profile-counter.glitch.me/derekhuynen/count.svg)
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
-  <img src="doc/photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
-  <img src="doc/photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
+  <img src="docs/photos/koda1.png" alt="King of the North" style="height: 300px; width: auto; border-radius: 10px;"/>
+  <img src="docs/photos/koda2.png" alt="Hawaii Vacation" style="height: 300px; width: auto; border-radius: 10px;"/>
 </div>
