@@ -13,10 +13,19 @@ I am a **Senior Software Developer** with 7 years of experience delivering robus
 - **GitHub Repository:** [DerekHuynen.com](https://www.derekhuynen.com)
 
 ### 🤖 LinkedIn AI Auto Poster
-
 - **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
 - **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
+
+### 🧠 RAG Demo Solution  
+- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.  
+- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.  
+- **GitHub Repository:** [AI RAG](https://github.com/derekhuynen/AI_RAG)  
+
+### 🤝 Dual-Agent LLM System  
+- **Description:** A C#/.NET Azure Functions + Semantic Kernel demo where two AI agents—Research (gpt-4o) and Writing (gpt-4.1)—collaborate to gather facts and generate polished content.  
+- **Ideal For:** Developers building scalable, multi-agent AI pipelines with clear role separation.  
+- **GitHub Repository:** [AI Agents](https://github.com/derekhuynen/AI_Agents)  
 
 ---
 
