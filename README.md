@@ -4,7 +4,6 @@
 
 I am a **Senior Software Developer** with years of experience delivering robust, scalable web applications as a full-stack developer. I specialize in frontend development and AI-driven solutions, with deep expertise in React, AI patterns, and cloud platforms like Azure. Fast-learning, adaptable engineer passionate about building impactful, high-quality software and leading teams to deliver real business value. Experienced leading teams, mentoring developers, and driving innovation in dynamic, collaborative environments. Committed to delivering high-quality solutions that solve real business problems.
 
-[Derek Huynen Resume](https://github.com/derekhuynen/derekhuynen/blob/main/DerekHuynenResume.pdf)
 
 ## 🌟 Featured Projects
 
