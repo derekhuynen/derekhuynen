@@ -14,17 +14,18 @@ I am a **Senior Software Developer** with years of experience delivering robust,
 - **GitHub Repository:** [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
 - **Website** [DerekHuynen.com](https://www.derekhuynen.com)
 
+### 🧠 RAG Demo Solution (Updated 2025)
+
+- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
+- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.
+- **GitHub Repository:** [AI RAG Chatbot 2025](https://github.com/derekhuynen/AI_RAG_Chat_Bot_2025)
+
 ### 🤖 LinkedIn AI Auto Poster
 
 - **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging cutting-edge Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
 - **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
 
-### 🧠 RAG Demo Solution (Updated 2025
-
-- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
-- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.
-- **GitHub Repository:** [AI RAG Chatbot 2025]([https://github.com/derekhuynen/AI_RAG](https://github.com/derekhuynen/AI_RAG_Chat_Bot_2025))
 
 
 ---
