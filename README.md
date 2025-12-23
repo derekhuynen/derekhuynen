@@ -9,7 +9,7 @@ I am a **Senior Software Developer** with years of experience delivering robust,
 
 ### DerekHuynen.com
 
-- **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with Next.js and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
+- **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with React and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
 - **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
 - **GitHub Repository:** [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
 - **Website** [DerekHuynen.com](https://www.derekhuynen.com)
@@ -20,17 +20,12 @@ I am a **Senior Software Developer** with years of experience delivering robust,
 - **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
 
-### 🧠 RAG Demo Solution
+### 🧠 RAG Demo Solution (Updated 2025
 
 - **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
 - **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.
-- **GitHub Repository:** [AI RAG](https://github.com/derekhuynen/AI_RAG)
+- **GitHub Repository:** [AI RAG Chatbot 2025]([https://github.com/derekhuynen/AI_RAG](https://github.com/derekhuynen/AI_RAG_Chat_Bot_2025))
 
-### 🤝 Dual-Agent LLM System
-
-- **Description:** A C#/.NET Azure Functions + Semantic Kernel demo where two AI agents—Research (gpt-4o) and Writing (gpt-4.1)—collaborate to gather facts and generate polished content.
-- **Ideal For:** Developers building scalable, multi-agent AI pipelines with clear role separation.
-- **GitHub Repository:** [AI Agents](https://github.com/derekhuynen/AI_Agents)
 
 ---
 
