@@ -20,13 +20,6 @@ I'm a hands-on lead comfortable going deep on architecture, shipping code, and r
 - **Ideal For:** Anyone interested in real-time financial data visualization, WebSocket-driven UIs, or React state management at scale.
 - **Live Site:** [gexbot.com](https://gexbot.com)
 
-### 🌐 DerekHuynen.com
-
-- **Description:** My personal portfolio website showcasing my projects, skills, and professional journey. Built with React and Tailwind CSS, it serves as a platform to share my work and connect with the tech community.
-- **Ideal For:** Anyone interested in learning more about my work, skills, and professional background.
-- **GitHub Repository:** [DerekHuynenWebsite](https://github.com/derekhuynen/Derek_Huynen_Website)
-- **Website:** [DerekHuynen.com](https://www.derekhuynen.com)
-
 ### 🧠 RAG Demo Solution (Updated 2025)
 
 - **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
