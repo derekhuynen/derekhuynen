@@ -4,7 +4,7 @@
 
 I'm a **Senior AI and Full-Stack Engineer** with 6+ years delivering enterprise-grade systems across AI, cloud, and product development. I specialize in **Generative AI and RAG architecture**: building document ingestion pipelines, AI chatbots, and intelligent search systems with Azure OpenAI, Azure AI Search, and Semantic Kernel.
 
-At **T-Mobile (via IBM)** I lead a large cross-platform engineering team building **Arrow**, T-Mobile's enterprise design system across web, iOS, and Android. Before that I led T-Mobile's **enterprise GitHub Copilot rollout**, growing adoption to roughly **6,000 developers**, building automated access management, and running value stream mapping and training programs across the organization.
+At **T-Mobile (via IBM)** I lead an 18–21 person cross-platform engineering team building **Arrow**, T-Mobile's enterprise design system across web, iOS, and Android. Before that I led T-Mobile's **enterprise GitHub Copilot rollout**, growing adoption to roughly **6,000 developers**, building automated access management, and running value stream mapping and training programs across the organization.
 
 Outside of enterprise work, I built the complete React frontend for **Gexbot**, a real-time options-analytics platform with live WebSocket data streaming that serves a 10,000+ trading community.
 
