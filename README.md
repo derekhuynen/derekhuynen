@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-I am a **Senior AI and Full-Stack Engineer** with 6+ years delivering enterprise-grade systems across AI, cloud, and product development. I specialize in **Generative AI and RAG architecture** — building document ingestion pipelines, AI chatbots, and intelligent search systems using Azure OpenAI, Azure AI Search, and Semantic Kernel.
+I'm a **Senior AI/ML and Full-Stack Engineer** with 6+ years delivering enterprise-grade systems across AI, cloud, and product development. I specialize in **Generative AI and RAG architecture** — building document ingestion pipelines, AI chatbots, and intelligent search systems with Azure OpenAI, Azure AI Search, and Semantic Kernel.
 
-At T-Mobile (via IBM): led a 18-person cross-platform engineering team building **Arrow**, T-Mobile's enterprise design system across web, iOS, Android, and AEM. Also led the **GitHub Copilot rollout to 5,000+ developers** value stream mapping, training workshops, prompt engineering programs, and automated onboarding infrastructure.
+At **T-Mobile (via IBM)** I lead an 18–21 person cross-platform engineering team building **Arrow**, T-Mobile's enterprise design system across web, iOS, and Android. Before that I led T-Mobile's **enterprise GitHub Copilot rollout** — growing adoption to **7,000+ developers**, building automated access management, and running value stream mapping and training programs across the organization.
 
-Outside of enterprise work, I built the complete React frontend for **Gexbot** a live options analytics platform with real-time WebSocket data streaming serving a large and growing trading community.
+Outside of enterprise work, I built the complete React frontend for **Gexbot**, a real-time options-analytics platform with live WebSocket data streaming that serves a 10,000+ trading community.
 
-I'm a hands-on lead comfortable going deep on architecture, shipping code, and running teams. Currently looking to bring this to a product-focused company where I can build something that compounds over time.
+I'm a hands-on lead, comfortable going deep on architecture, shipping code, and running teams. I'm currently looking to bring this to a product-focused company where I can build something that compounds over time.
 
 ---
 
@@ -16,11 +16,11 @@ I'm a hands-on lead comfortable going deep on architecture, shipping code, and r
 
 ### 📈 Gexbot — Live Options Analytics
 
-- **Description:** Built the complete React frontend for [gexbot.com](https://gexbot.com), a real-time options analytics platform for active stock traders. Implemented live gamma exposure charts using WebSockets for continuous market-hours data streaming. Architected the full state layer in Redux for V1, then led a complete refactor to Zustand for the production version — improving performance and reducing bundle complexity.
+- **Description:** Built the complete React frontend for [gexbot.com](https://gexbot.com), a real-time options-analytics platform for active stock and options traders. Implemented custom, data-dense charts and live gamma-exposure data streaming over WebSockets, and led the state-management refactor from Redux to Zustand for better performance.
 - **Ideal For:** Anyone interested in real-time financial data visualization, WebSocket-driven UIs, or React state management at scale.
 - **Live Site:** [gexbot.com](https://gexbot.com)
 
-### 🧠 RAG Demo Solution (Updated 2025)
+### 🧠 AI RAG Chatbot (2025)
 
 - **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
 - **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.
@@ -28,8 +28,8 @@ I'm a hands-on lead comfortable going deep on architecture, shipping code, and r
 
 ### 🤖 LinkedIn AI Auto Poster
 
-- **Description:** An intelligent, AI-driven solution designed to automate the creation and publishing of engaging LinkedIn content. Leveraging Azure OpenAI technology, this application streamlines content generation and ensures consistent, high-quality posting directly to LinkedIn.
-- **Ideal For:** Professionals looking to enhance their digital presence effortlessly while saving time and maintaining active audience engagement.
+- **Description:** An AI-driven tool that automates creating and publishing engaging LinkedIn content using Azure OpenAI, for consistent, low-effort posting and audience engagement.
+- **Ideal For:** Professionals looking to maintain an active digital presence while saving time.
 - **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
 
 ---
@@ -44,7 +44,7 @@ I'm a hands-on lead comfortable going deep on architecture, shipping code, and r
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TanStack](https://img.shields.io/badge/tanstack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/redux--saga-%238DD6F9.svg?style=for-the-badge&logo=redux-saga&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23E5E5E5.svg?style=for-the-badge&logo=zustand&logoColor=black) ![Semantic Kernel](https://img.shields.io/badge/semantic%20kernel-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/redux--saga-%238DD6F9.svg?style=for-the-badge&logo=redux-saga&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%23E5E5E5.svg?style=for-the-badge&logo=zustand&logoColor=black) ![Semantic Kernel](https://img.shields.io/badge/semantic%20kernel-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### AI Tools & Technologies
 
@@ -78,4 +78,3 @@ I'm a hands-on lead comfortable going deep on architecture, shipping code, and r
 - **Website:** [derekhuynen.com](https://www.derekhuynen.com)
 
 ---
-
