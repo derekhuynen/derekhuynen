@@ -20,17 +20,23 @@ I'm a hands-on lead, comfortable going deep on architecture, shipping code, and 
 - **Ideal For:** Anyone interested in real-time financial data visualization, WebSocket-driven UIs, or React state management at scale.
 - **Live Site:** [gexbot.com](https://gexbot.com)
 
-### 🧠 AI RAG Chatbot (2025)
+### 🧠 AI RAG Chat Bot
 
-- **Description:** A C#/.NET Azure Functions & Semantic Kernel demo that ingests documents, leverages Azure OpenAI & Azure AI Search for Retrieval-Augmented Generation, and powers an agent-based chat API.
-- **Ideal For:** Developers building context-aware conversational AI and hybrid search pipelines.
-- **GitHub Repository:** [AI RAG Chatbot 2025](https://github.com/derekhuynen/AI_RAG_Chat_Bot_2025)
+- **Description:** A keyless, scale-to-zero RAG chat app on Azure: streaming chat with clickable citations and image understanding over your own documents, deployable in one command. Azure Functions (.NET 10) + React, with hybrid (keyword + vector) retrieval and Managed Identity auth (no keys anywhere).
+- **Ideal For:** Developers building context-aware conversational AI, hybrid search, and keyless Azure architectures.
+- **GitHub Repository:** [ai-rag-chat-bot](https://github.com/derekhuynen/ai-rag-chat-bot)
+
+### 🔌 derekhuynen-mcp-server
+
+- **Description:** A production-grade reference Model Context Protocol (MCP) server in TypeScript: one transport-agnostic core serving tools, resources, and prompts over two transports (stdio and Streamable HTTP), backed by a validated data layer, a real test suite, Docker, and CI.
+- **Ideal For:** Developers building or templating their own MCP server with clean, testable architecture.
+- **GitHub Repository:** [derekhuynen-mcp-server](https://github.com/derekhuynen/derekhuynen-mcp-server)
 
 ### 🤖 LinkedIn AI Auto Poster
 
-- **Description:** An AI-driven tool that automates creating and publishing engaging LinkedIn content using Azure OpenAI, for consistent, low-effort posting and audience engagement.
+- **Description:** An autonomous Azure pipeline that writes, illustrates, and ships LinkedIn posts on a schedule, with a Next.js dashboard to browse what it has shipped and watch it generate a sample post live.
 - **Ideal For:** Professionals looking to maintain an active digital presence while saving time.
-- **GitHub Repository:** [LinkedIn AI Auto Poster](https://github.com/derekhuynen/LinkedIn_AI_Auto_Poster)
+- **GitHub Repository:** [linkedin-ai-auto-poster](https://github.com/derekhuynen/linkedin-ai-auto-poster)
 
 ---
 
